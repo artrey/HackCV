@@ -1,0 +1,12 @@
+*.opensdf
+*.sdf
+*.suo
+*.user
+*.VC.db
+*.VC.opendb
+bin/
+obj/
+Debug/
+Release/
+generated*/
+.idea/
